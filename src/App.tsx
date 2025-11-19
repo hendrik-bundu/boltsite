@@ -63,7 +63,7 @@ function App() {
                 <div className="w-16 h-16 bg-[#D0342C] text-white rounded-full flex items-center justify-center text-2xl font-bold mb-6">
                   1
                 </div>
-                <h3 className="text-xl font-bold text-[#1A1A1A] mb-4">Leads message your WhatsApp number</h3>
+                <h3 className="text-xl font-bold text-[#1A1A1A] mb-4">Leads message your WhatsApp number (text or voicenote)</h3>
                 <div className="mt-6 bg-[#F2F2F2] rounded-lg p-4">
                   <MessageSquare className="w-12 h-12 text-[#D0342C] mx-auto" />
                 </div>

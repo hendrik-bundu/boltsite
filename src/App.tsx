@@ -37,6 +37,9 @@ function App() {
                 <button className="bg-white hover:bg-[#F2F2F2] text-[#D0342C] px-10 py-4 rounded-lg font-bold text-lg transition-all duration-300 hover:shadow-2xl hover:scale-105">
                   Try It Now
                 </button>
+                <a href="https://form.jotform.com/253223405274551" target="_blank" rel="noopener noreferrer" className="border-2 border-white hover:bg-white/10 text-white px-10 py-4 rounded-lg font-bold text-lg transition-all duration-300 hover:shadow-2xl hover:scale-105">
+                  Request Discovery
+                </a>
               </div>
             </div>
 

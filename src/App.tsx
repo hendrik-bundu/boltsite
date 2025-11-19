@@ -173,7 +173,7 @@ function App() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <button className="border-2 border-white hover:bg-white/10 text-white px-10 py-4 rounded-lg font-bold text-lg transition-all duration-300">
-              Try It Now
+              Request Discovery
             </button>
           </div>
 

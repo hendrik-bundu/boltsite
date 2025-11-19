@@ -76,7 +76,7 @@ function App() {
                 <div className="w-16 h-16 bg-[#D0342C] text-white rounded-full flex items-center justify-center text-2xl font-bold mb-6">
                   2
                 </div>
-                <h3 className="text-xl font-bold text-[#1A1A1A] mb-4">AI handles questions, captures details, and qualifies them</h3>
+                <h3 className="text-xl font-bold text-[#1A1A1A] mb-4">AI handles questions, captures details, and asks qualifying questions and prompts CTA</h3>
                 <div className="mt-6 bg-[#F2F2F2] rounded-lg p-4">
                   <Sparkles className="w-12 h-12 text-[#D0342C] mx-auto" />
                 </div>
@@ -88,7 +88,7 @@ function App() {
               <div className="w-16 h-16 bg-[#D0342C] text-white rounded-full flex items-center justify-center text-2xl font-bold mb-6">
                 3
               </div>
-              <h3 className="text-xl font-bold text-[#1A1A1A] mb-4">Appointments, leads, and notes sync automatically to your CRM</h3>
+              <h3 className="text-xl font-bold text-[#1A1A1A] mb-4">Appointments, leads, and notes sync automatically to your calendar or CRM of choice</h3>
               <div className="mt-6 bg-[#F2F2F2] rounded-lg p-4">
                 <Database className="w-12 h-12 text-[#D0342C] mx-auto" />
               </div>

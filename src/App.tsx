@@ -166,7 +166,7 @@ function App() {
 
         <div className="max-w-4xl mx-auto px-6 text-center relative z-10">
           <h2 className="text-4xl lg:text-5xl font-bold text-white mb-6">
-            Start Automating Your Sales on WhatsApp — Request a Demo
+            Start Automating Your Sales on WhatsApp — Request a Discovery
           </h2>
           <p className="text-xl text-white/90 mb-10">
             See how MarsPebble can transform your business operations

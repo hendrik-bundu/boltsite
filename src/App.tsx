@@ -34,9 +34,9 @@ function App() {
                 Capture leads, qualify them, answer questions, and book meetings — automatically.
               </p>
               <div className="flex gap-4 pt-4">
-                <button className="bg-[#D0342C] hover:bg-[#B02D26] text-white px-10 py-4 rounded-lg font-bold text-lg transition-all duration-300 hover:shadow-2xl hover:scale-105">
+                <a href="https://wa.me/27663607339" target="_blank" rel="noopener noreferrer" className="bg-[#D0342C] hover:bg-[#B02D26] text-white px-10 py-4 rounded-lg font-bold text-lg transition-all duration-300 hover:shadow-2xl hover:scale-105">
                   Try It Now
-                </button>
+                </a>
                 <a href="https://form.jotform.com/253223405274551" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-[#F2F2F2] text-[#D0342C] px-10 py-4 rounded-lg font-bold text-lg transition-all duration-300 hover:shadow-2xl hover:scale-105">
                   Request Discovery
                 </a>

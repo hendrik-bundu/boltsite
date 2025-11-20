@@ -45,7 +45,7 @@ function App() {
 
             <div className="relative">
               <img
-                src="/FordWA.png"
+                src="/WA Ford 2.jpeg"
                 alt="WhatsApp Sales Agent Demo"
                 className="w-full h-auto rounded-2xl shadow-2xl"
               />

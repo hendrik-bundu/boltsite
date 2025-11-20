@@ -9,9 +9,9 @@ function App() {
             <img src="/marspebblelogoonly.png" alt="Marspebble" className="w-15 h-10" />
             <span className="text-white text-2xl font-bold tracking-tight">Marspebble</span>
           </div>
-          <button className="bg-[#D0342C] hover:bg-[#B02D26] text-white px-6 py-2.5 rounded-lg font-semibold transition-all duration-300 hover:shadow-lg hover:shadow-[#D0342C]/30">
+          <a href="https://wa.me/27663607339" target="_blank" rel="noopener noreferrer" className="bg-[#D0342C] hover:bg-[#B02D26] text-white px-6 py-2.5 rounded-lg font-semibold transition-all duration-300 hover:shadow-lg hover:shadow-[#D0342C]/30">
             Try it Now
-          </button>
+          </a>
         </div>
       </header>
 

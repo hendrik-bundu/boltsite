@@ -118,6 +118,48 @@ function App() {
         </div>
       </section>
 
+      <section className="py-20 bg-[#F2F2F2]">
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl lg:text-5xl font-bold text-[#1A1A1A] mb-4">Booking Applications</h2>
+          </div>
+
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
+            <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:transform hover:scale-105">
+              <div className="aspect-square bg-gray-200"></div>
+            </div>
+
+            <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:transform hover:scale-105">
+              <div className="aspect-square bg-gray-200"></div>
+            </div>
+
+            <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:transform hover:scale-105">
+              <div className="aspect-square bg-gray-200"></div>
+            </div>
+
+            <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:transform hover:scale-105">
+              <div className="aspect-square bg-gray-200"></div>
+            </div>
+
+            <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:transform hover:scale-105">
+              <div className="aspect-square bg-gray-200"></div>
+            </div>
+
+            <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:transform hover:scale-105">
+              <div className="aspect-square bg-gray-200"></div>
+            </div>
+
+            <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:transform hover:scale-105">
+              <div className="aspect-square bg-gray-200"></div>
+            </div>
+
+            <div className="bg-white rounded-xl overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 hover:transform hover:scale-105">
+              <div className="aspect-square bg-gray-200"></div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section className="py-20 bg-[#1A1A1A]">
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">

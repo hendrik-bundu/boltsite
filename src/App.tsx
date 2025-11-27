@@ -122,7 +122,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-12">
             <h2 className="text-4xl lg:text-6xl font-bold text-white mb-8">
-              <span className="text-[#25D366]">Appointments</span> with WhatsApp
+              <span className="text-[#25D366]">Bookings</span> with WhatsApp
             </h2>
           </div>
           <div className="flex justify-center mb-12">

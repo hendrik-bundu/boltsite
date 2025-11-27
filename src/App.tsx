@@ -120,6 +120,28 @@ function App() {
 
       <section className="py-20 bg-[#1A1A1A]">
         <div className="max-w-7xl mx-auto px-6">
+          <div className="text-center mb-12">
+            <h2 className="text-4xl lg:text-6xl font-bold text-white mb-8">
+              <span className="text-[#25D366]">Appointments</span> with WhatsApp
+            </h2>
+          </div>
+          <div className="flex justify-center mb-12">
+            <img
+              src="/poster.png"
+              alt="WhatsApp Booking Applications"
+              className="w-full max-w-6xl h-auto rounded-2xl shadow-2xl"
+            />
+          </div>
+          <div className="max-w-4xl mx-auto">
+            <p className="text-lg lg:text-xl text-[#F2F2F2]/90 leading-relaxed text-center">
+              Transform how your customers book with you. Our WhatsApp booking application seamlessly handles sports facility bookings, professional appointments, doctor consultations, hair and beauty services, car service scheduling, restaurant reservations, and complete event registration workflows. From the initial inquiry to the final thank-you message after attending, every touchpoint happens naturally within WhatsApp—the platform your customers already use every day. No downloads, no complicated forms, just simple conversations that convert into confirmed bookings.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section className="py-20 bg-[#1A1A1A]">
+        <div className="max-w-7xl mx-auto px-6">
           <div className="text-center mb-16">
             <h2 className="text-4xl lg:text-5xl font-bold text-white mb-4">Use Cases</h2>
             <p className="text-xl text-[#F2F2F2]/70">Built for your industry</p>

@@ -110,7 +110,7 @@ function App() {
           </div>
           <div className="flex justify-center">
             <img
-              src="/WhatsApp_2.png"
+              src="/2phone&quote.png"
               alt="WhatsApp Sales Agent Benefits"
               className="w-full max-w-4xl h-auto rounded-2xl shadow-2xl"
             />

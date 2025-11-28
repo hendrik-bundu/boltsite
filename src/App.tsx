@@ -9,7 +9,7 @@ function App() {
             <img src="/marspebblelogoonly.png" alt="Marspebble" className="w-15 h-10" />
             <span className="text-white text-2xl font-bold tracking-tight">Marspebble</span>
           </div>
-          <a href="https://wa.me/27663607339" target="_blank" rel="noopener noreferrer" className="bg-[#D0342C] hover:bg-[#B02D26] text-white px-6 py-2.5 rounded-lg font-semibold transition-all duration-300 hover:shadow-lg hover:shadow-[#D0342C]/30">
+          <a href="https://wa.me/27827017710" target="_blank" rel="noopener noreferrer" className="bg-[#D0342C] hover:bg-[#B02D26] text-white px-6 py-2.5 rounded-lg font-semibold transition-all duration-300 hover:shadow-lg hover:shadow-[#D0342C]/30">
             Try it Now
           </a>
         </div>
@@ -34,7 +34,7 @@ function App() {
                 Capture leads, qualify them, answer questions, and book meetings — automatically.
               </p>
               <div className="flex gap-4 pt-4">
-                <a href="https://wa.me/27663607339" target="_blank" rel="noopener noreferrer" className="bg-[#D0342C] hover:bg-[#B02D26] text-white px-10 py-4 rounded-lg font-bold text-lg transition-all duration-300 hover:shadow-2xl hover:scale-105">
+                <a href="https://wa.me/27827017710" target="_blank" rel="noopener noreferrer" className="bg-[#D0342C] hover:bg-[#B02D26] text-white px-10 py-4 rounded-lg font-bold text-lg transition-all duration-300 hover:shadow-2xl hover:scale-105">
                   Try It Now
                 </a>
                 <a href="https://form.jotform.com/253223405274551" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-[#F2F2F2] text-[#D0342C] px-10 py-4 rounded-lg font-bold text-lg transition-all duration-300 hover:shadow-2xl hover:scale-105">
